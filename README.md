@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lusgan
 - 👀 I’m interested in POO
-- 🌱 I’m currently learning java, html, css and JS
+- 🌱 I’m currently learning java, C and Python
 - 📫 insta: @lusggan 
 
 <!---
